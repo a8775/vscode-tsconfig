@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "es2015",
+        "declaration": false,
+        "outDir": "./bin"
+    }
+}

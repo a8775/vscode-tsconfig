@@ -1,0 +1,19 @@
+{
+  "name": "vscode-tsconfig-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myMainFile.js",
+  "bin": {
+    "vscode-tsconfig-bug": "myMainFile.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a8775",
+  "license": "MIT",
+  "dependencies": {
+    "connect-timeout": "^1.7.0",
+    "express": "^4.14.0",
+    "node": "0.0.0"
+  }
+}
