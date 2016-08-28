@@ -1,7 +1,10 @@
 # vscode-tsconfig
 
 The demonstration project that shows possible problem with multiple 
-`tsconfig.json` files in subdirectories.
+`tsconfig.json` files in subdirectories:
+
+- https://github.com/Microsoft/vscode/issues/10084
+- https://github.com/Microsoft/TypeScript/issues/10283
 
 # Setup 
 Tested with the following versions:
